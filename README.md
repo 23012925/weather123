@@ -207,7 +207,9 @@ body {
 ```
 
 ## Output:
-https://github.com/23012925/weather123/blob/main/Screenshot%20(17).png
+![Screenshot (17)](https://github.com/user-attachments/assets/a5359708-6fa3-45d0-961e-50eabcfb271c)
+
+
 
 ## Result:
 
