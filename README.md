@@ -33,7 +33,6 @@ Basic styling using external or inline CSS
 import React, { useState } from 'react';
 import './App.css';
 
-// ✅ Put mock data outside the component or at the top of the component, NOT inside JSX
 const mockWeatherData = {
   London: { temperature: '18°C', wind: '15 km/h', sky: 'Cloudy' },
   Paris: { temperature: '22°C', wind: '10 km/h', sky: 'Sunny' },
